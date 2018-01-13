@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-Cool story, bro.
+Cool story, bro. For cereal.
